@@ -51,6 +51,7 @@
 !/funnel
 !/fisst
 !/sasa
+!/deepmd
 
 # And just ignore these files
 *.xxd
